@@ -48,7 +48,7 @@ This function returns an array of points based on the array of segments. This is
 * segments - list of segments, each segment being a set of coordinates with a length 1-4
 * fn - controls how many intermediate points will make up each curve in the path, default 32
 
-### B_debug(segments, fn)
+### B_debug(segments, size)
 
 This function can be used to help debug Bezier curves. It renders text and dots in the OpenSCAD view panel
 
