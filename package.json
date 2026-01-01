@@ -1,0 +1,10 @@
+{
+	"name": "openscad-bezier-lib",
+	"version": "1.0.0",
+	"description": "Bezier curve library for OpenSCAD",
+	"main": "bezier.scad",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jramey88/openscad-bezier-lib"
+	}
+}

@@ -4,9 +4,9 @@ This library provides several functions for calculating Bezier curves given an a
 
 ## Usage
 
-Include this library in your OpenSCAD project.
+Include this library in your OpenSCAD project. Since this library can be opened as a standalone project, use *use* instead of *include* to avoid exectuting example code in your own project.
 
-	include <bezier.scad>
+	use <bezier.scad>
 
 Example of a complete looped path of Bezier curves. There are 3 segments, each having an endpoint, 2 control points, and another endpoint.
 
